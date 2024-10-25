@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-PassionProject-Tga/[Ll]ibrary/
-PassionProject-Tga/[Tt]emp/
-PassionProject-Tga/[Oo]bj/
-PassionProject-Tga/[Bb]uild/
-PassionProject-Tga/[Bb]uilds/
-PassionProject-Tga/[Ll]ogs/
-PassionProject-Tga/[Uu]ser[Ss]ettings/
+Passion Project-Tga/[Ll]ibrary/
+Passion Project-Tga/[Tt]emp/
+Passion Project-Tga/[Oo]bj/
+Passion Project-Tga/[Bb]uild/
+Passion Project-Tga/[Bb]uilds/
+Passion Project-Tga/[Ll]ogs/
+Passion Project-Tga/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
